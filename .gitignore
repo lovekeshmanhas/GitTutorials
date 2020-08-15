@@ -1,0 +1,5 @@
+error.log
+*.log
+tet/
+/dir/
+static/dir
