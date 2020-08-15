@@ -1,7 +1,0 @@
-Version 1.0 of my project
-
-Commit new version 2
-
-change version 3
-
-changed to skip staged
